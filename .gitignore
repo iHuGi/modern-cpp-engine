@@ -1,0 +1,24 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables and binaries
+bin/
+*.exe
+*.out
+*.app
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.sln
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
