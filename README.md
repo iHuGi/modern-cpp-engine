@@ -1,4 +1,5 @@
 # C++ Engine Deployment Guide
+> **Status: Work in Progress**
 
 To initialize the logic engine within the Ubuntu environment, the engineering team (me) utilizes a standardized deployment architecture featuring an isolated binary directory for optimal workspace hygiene.
 
