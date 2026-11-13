@@ -236,13 +236,14 @@ The exercises contained here solve the instructor's challenges but often diverge
 
 The workspace is organized chronologically by course sections, progressing from basic mechanics to advanced Object-Oriented Programming and STL features:
 
-* `section_4` to `section_12`: Fundamentals (Arrays, Vectors, Pointers, Functions, and Memory Allocation).
-* `section_13`: Object-Oriented Programming (Classes, Objects, Constructors).
-* `section_14`: Operator Overloading.
-* `section_15`: Inheritance and Polymorphism.
-* `section_16`: Polymorphism (Virtual functions, Abstract classes).
-* `section_17`: Smart Pointers (`std::unique_ptr`, `std::shared_ptr`, `std::weak_ptr`).
-* `section_18`: Exception Handling (Custom classes, Stack Unwinding).
-* `section_19`: I/O and Streams.
+- `section_4` to `section_12`: Fundamentals (Arrays, Vectors, Pointers, Functions, and Memory Allocation).
+- `section_13`: Object-Oriented Programming (Classes, Objects, Constructors).
+- `section_14`: Operator Overloading.
+- `section_15`: Inheritance and Polymorphism.
+- `section_16`: Polymorphism (Virtual functions, Abstract classes).
+- `section_17`: Smart Pointers (`std::unique_ptr`, `std::shared_ptr`, `std::weak_ptr`).
+- `section_18`: Exception Handling (Custom classes, Stack Unwinding).
+- `section_19`: I/O and Streams.
+- `section_20`: Standard Template Library (`standard_template_library/` — Function & Class Templates, Custom `Array<T, N>`, Iterators, Algorithms, `std::array`, `std::vector`, `std::deque`, and Palindrome Challenge).
 
 Each section contains its own isolated implementation files and, where applicable, custom Makefiles for binary orchestration.
